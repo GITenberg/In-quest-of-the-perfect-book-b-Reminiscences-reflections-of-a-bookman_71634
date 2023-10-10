@@ -1,5 +1,8 @@
 _repo: In-quest-of-the-perfect-book-b-Reminiscences-reflections-of-a-bookman_71634
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71634-h/images/cover-tb.jpg
 creator:
   author:
     agent_name: Orcutt, William Dana
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6050
     wikipedia: https://en.wikipedia.org/wiki/William_Dana_Orcutt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71634#In-quest-of-the-perfect-book-b-Reminiscences-reflections-of-a-bookman
 gutenberg_issued: '2023-09-14'
 identifiers:
   gutenberg: '71634'
